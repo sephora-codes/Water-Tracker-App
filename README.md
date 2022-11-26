@@ -3,8 +3,6 @@
       height="80">](https://play.google.com/store/apps/details?id=com.afl.waterReminderDrinkAlarmMonitor)
 
     
-## 🚀 About Me
-I am a self-thaught developer learning web and android development. This app is just a trial to test and improve my android development skills. I am currently enrolled in [Le Wagon](https://www.lewagon.com/web-development-course/part-time) web development course.
 
   
 # Water Tracker - Drink Reminder & Alarm
